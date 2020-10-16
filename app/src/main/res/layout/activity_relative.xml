@@ -67,7 +67,7 @@
             android:layout_height="wrap_content"
             android:layout_below="@id/view_1"
             android:text="RECOMMENDED"
-            android:textSize="20sp"
+            android:textSize="17sp"
             android:textColor="#ffffff"/>
         <ImageView
             android:layout_width="wrap_content"
@@ -104,7 +104,7 @@
             android:layout_height="wrap_content"
             android:layout_below="@id/view_2"
             android:text="FOR EXPERTS"
-            android:textSize="20sp"
+            android:textSize="17sp"
             android:textColor="#ffffff"/>
         <ImageView
             android:layout_width="wrap_content"
@@ -136,13 +136,15 @@
             android:layout_height="3dp"
             android:background="#ffffff"/>
         <TextView
+            android:id="@+id/text_view_3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@id/view_3"
             android:text="FOR COMPLETE BEGINNERS"
-            android:textSize="20sp"
+            android:textSize="17sp"
             android:textColor="#ffffff"/>
         <ImageView
+            android:id="@+id/image_view_3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
