@@ -29,7 +29,8 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="You can change the mode anytime in the setting."
+        android:text="@string/setting_description"
+        android:textColor="#000000"
         android:textSize="15sp"/>
 
     </LinearLayout>

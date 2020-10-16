@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">UIBasics</string>
     <string name="home_setup">Setup your Plan</string>
+    <string name="setting_description">You can change this anytime in the settings.</string>
 </resources>
